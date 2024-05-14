@@ -1,0 +1,10 @@
+h1 {text-align: center;
+    background-color: #c696d2;
+    width: 25%}
+/*#title{margin-left: auto; margin-right: auto;}*//*this code is not working the way I want it to. I want h1 and the color to be centered on the page*/
+h2 {text-align: center;}
+body {background-color: #343434;
+/*establish some sort of background image that is subtle and fits well background-image: url(____)*/}
+.background {text-align: center;}
+
+/*#homepage {background-color: #344565;}*/
