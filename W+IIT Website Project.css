@@ -1,22 +1,37 @@
-h1 {text-align: center;
+h1 {margin: 1em auto;
+    text-align: center;
     background-color: #c696d2;
-    width: 25%}
+    width: 25%;
+    margin: auto;
+color: black}
 /*#title{margin-left: auto; margin-right: auto;}*//*this code is not working the way I want it to. I want h1 and the color to be centered on the page*/
-h2 {text-align: center;}
+h2 {text-align: center;
+font-family: "tahoma","ariel";}
 body {background-color: #343434;
-/*establish some sort of background image that is subtle and fits well background-image: url(____)*/}
+    Color: white;
+}
+/*establish some sort of background image that is subtle and fits well background-image: url(____)*/
 .background {
-    /*background-image: url("file:///C:/Users/Jordyn/Downloads/WIIT_background.gif");  Figure out how to properly embed a gif as the bakcground of the website*/
+    /*background-image:  Figure out how to properly embed a gif as the bakcground of the website*/
     background-position: center;
     background-size: cover;
     overflow: hidden;
 }
-.links{background-color:#494949;
-text-align: left;}
+.linktree{
+text-align: left;
+color: white;
+}
 .linktree a {color: #4995ed;}
 .linktree a:visited {color: #c696d2;}
 .linktree a:hover {color: whitesmoke;}
-.linktree a:active {color: #494949}
+.linktree a:active {color: #494949
+}
+#Club_Logo {padding-left: 7.5%
+}
+#githubgif {position:absolute;
+    top: 790px;
+left:23.5%;
+}
 
 /*#homepage {background-color: #344565;}*/
 /*add a light/dark mode toggle to the website later*/
